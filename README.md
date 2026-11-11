@@ -26,7 +26,7 @@ Choose the version compatible with your Windows computer.
 
 Visit the official VoxFlow website:
 
-https://voxflow.pages.dev
+https://voxflow-app.pages.dev
 
 ## Important
 
